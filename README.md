@@ -1,3 +1,3 @@
 # React JS Share Button Example
 
-[Live URL](https://react-bank-test.herokuapp.com) 
+[Live URL](https://react-share-social.herokuapp.com/) 
