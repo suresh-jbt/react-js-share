@@ -4,7 +4,7 @@
   "description": "React Test",
   "main": "index.html",
   "scripts": {
-    "start": "webpack-dev-server --port 3000 --config ./webpack.config.js --progress --profile",
+    "start": "webpack-dev-server --port 5000 --config ./webpack.config.js --progress --profile",
     "build": "webpack --config ./webpack.config.js --progress --color"
   },
   "keywords": [
